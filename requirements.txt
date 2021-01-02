@@ -1,0 +1,16 @@
+atomicwrites==1.4.0
+attrs==20.3.0
+colorama==0.4.4
+iniconfig==1.1.1
+linecache2==1.0.0
+packaging==20.8
+pluggy==0.13.1
+py==1.10.0
+pyparsing==2.4.7
+PySide2==5.15.2
+pytest==6.2.1
+shiboken2==5.15.2
+six==1.15.0
+toml==0.10.2
+traceback2==1.4.0
+unittest2==1.1.0
