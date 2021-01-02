@@ -1,2 +1,2 @@
-# Coffee-Machine-App
-Coffee Machine App (PyQt)
+# Advance-Coffee-Machine-App
+Advance Coffee Machine App (PyQt)
