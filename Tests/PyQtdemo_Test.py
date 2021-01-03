@@ -1,2 +1,6 @@
 import sys
-import unittest2
+
+from PySide2 import QtCore
+import PyQtdemo
+
+pass

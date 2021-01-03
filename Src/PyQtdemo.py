@@ -14,4 +14,4 @@ win= QWidget()
 F.ManinWindow(win)
 win.show()
 
-sys.exit(app.exec_())
+#sys.exit(app.exec_())
