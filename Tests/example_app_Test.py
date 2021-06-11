@@ -1,7 +1,7 @@
 import pytest
 
 from PySide2 import QtCore
-import example_app
+from ..Src import example_app
 
 
 @pytest.fixture

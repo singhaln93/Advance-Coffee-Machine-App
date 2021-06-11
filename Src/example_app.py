@@ -7,6 +7,8 @@ from PySide2.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxL
 class MyApp(QWidget):
 
     def __init__(self):
+        """[summary]
+        """
         super().__init__()
 
         self.text_label = QLabel()
@@ -15,7 +17,8 @@ class MyApp(QWidget):
 
         self.button = QPushButton("Fancy Button")
         self.button.setFont(QFont('Arial', 14))
-        self.button.clicked.connect(lambda: self.text_label.setText("Changed!"))
+        self.button.clicked.connect(
+            lambda: self.text_label.setText("Changed!"))
 
         self.setGeometry(50, 50, 300, 200)
         self.setWindowTitle("PyQt5 Example")
